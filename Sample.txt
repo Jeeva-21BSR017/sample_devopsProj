@@ -1,1 +1,1 @@
-This is Devops basic command
+This is Devops basic command for tomorrow class.
